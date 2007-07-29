@@ -1,4 +1,4 @@
-<user nick="gavin" alias="gavinmb gavin_ gavin| gavin__ gavins gavin___ gavin2 gavin|lab gavin|away gavin|zzz gavin|l gavin_-_- gavin|d sharpg">
+<user nick="gavin" alias="gavinmb gavin_ gavin| gavin__ gavins gavin___ gavin2 gavin|lab gavin|away gavin|zzz gavin|l gavin_-_- gavin|d sharpg gavin\">
 <user nick="timeless" alias="timely timelyx wounded_monkey compiledmonkey proxy_monkey spidercrasher chistery chistery_ iunknown sslmonkey">
 <user nick="bz" alias="bz_away bz_gone bz_sleep bz_food bz_dinner bz_mac">
 <user nick="biesi" alias="biesi_ biesi-away biesi-win biesi-distracted biesi-CA">
@@ -103,7 +103,7 @@
 <user nick="shadytrees" alias="hao2lian hao2lain">
 <user nick="avrom" alias="AvvY avrom__ avrom_ avrom|study avrom|zZz loveme4iamjesus avrom|mac AvvY_">
 <user nick="nosebleed" alias="nosey_b">
-<user nick="jX" alias="jX|out jX-out jesusX jesus_X jX-angst jx-Away jX-BSG">
+<user nick="jX" alias="jX|out jX-out jesusX jesus_X jX-angst jx-Away jX-BSG jX|away">
 <user nick="MightyMu" alias="MightyMu_">
 <user nick="wheels" alias="AdaByron AdaEngaged wheelsPromoted">
 <user nick="Tristor" alias="Tristor|Mowing Tristor|Bleh Tristor|Cleaning Tristor|W Tris|Shell Tristor|Anime Tristor|BRB Tristor2 Tristor|BfW Tristor|ET Tristor|Busy Tristor|Movie Tristor|SM Tristor|Game Tristor|Chores Tristor|Away Tristor|HW Tristor|CZ">
