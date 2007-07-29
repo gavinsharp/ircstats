@@ -45,10 +45,10 @@
 <user nick="foxbot" alias="FoxBot foxbot2">
 <user nick="beltzner" alias="beltzner|afk beltzner|away beltzner|zzz beltzner_">
 <user nick="markp" alias="markp_">
-<user nick="Mossop" alias="Mossop_away Mossop2 Mosssop Mossop_">
+<user nick="Mossop" alias="Mossop_away Mossop2 Mosssop Mossop_ Mossop_mobile">
 <user nick="dolske" alias="dolske|CA dolske|BFE dolske|N800 dolske_">
 <user nick="pkim" alias="pkim_">
-<user nick="jminta" alias="jmacminta">
+<user nick="jminta" alias="jmacminta jminta_">
 <user nick="aaronlev" alias="aaronlufthansa aaronl aaronbeer">
 <user nick="sayrer" alias="sayyaaaar sayrer_ sayrer_shrf">
 <user nick="bhearsum" alias="Cpt_Beer_Some">
@@ -130,11 +130,12 @@
 <user nick="Vardyr" alias="Vardyr|Off">
 <user nick="mellon" alias="Zingger">
 <user nick="dwitte" alias="dwitte_z dwitte_">
+<user nick="Triona" alias="Caitriona TrionaZZZ">
 
 <user nick="WizKid" alias="WizKid_">
 <user nick="steve_k" alias="steve_k_vm">
 <user nick="topa" alias="topa_">
-<user nick="sdwilsh" alias="comrade693 sdwilsh_ sdwilsh|away sdwilsh|study sdwilsh|sleep sdwilsh|class">
+<user nick="sdwilsh" alias="comrade693 sdwilsh_ sdwilsh|away sdwilsh|study sdwilsh|sleep sdwilsh|class sdwilsh|food">
 <user nick="mwu" alias="bluetape mwu_">
 <user nick="dmose" alias="emose fmose dmose2">
 <user nick="MisterSSL" alias="Mister-TLS">
@@ -142,7 +143,7 @@
 <user nick="bienvenu" alias="davidbienvenu bienvenu_">
 <user nick="myk" alias="myk_">
 <user nick="jay" alias="jay_zzz">
-<user nick="jeremy" alias="jeremy|hmwk linuxmigration linuxmigration_ Lieutenant_Jeremy jeremy|afk jeremy_">
+<user nick="jeremy" alias="jeremy|hmwk linuxmigration linuxmigration_ Lieutenant_Jeremy jeremy|afk jeremy_ jeremy__">
 <user nick="Asa" alias="Asa_">
 <user nick="Hixie" alias="Hixie_ Hixie-">
 <user nick="alanjstr" alias="alanjstr|Work">
