@@ -3,7 +3,7 @@
 <user nick="bz" alias="bz_away bz_gone bz_sleep bz_food bz_dinner bz_mac">
 <user nick="biesi" alias="biesi_ biesi-away biesi-win biesi-distracted biesi-CA">
 <user nick="smaug" alias="smaugAfk">
-<user nick="cbarrett" alias="cbarrett_ cbarrett_home cbarrett_sherrif">
+<user nick="cbarrett" alias="cbarrett_ cbarrett_home cbarrett_sherrif cbarrett_work">
 <user nick="stephend" alias="stephend|study stephend|movie stephend|TV">
 <user nick="raccettura" alias="DIGITALgimpus">
 <user nick="Jesse" alias="Jesse_ Jesse_home Jesse|iSketch Jesse__">
@@ -12,7 +12,7 @@
 <user nick="poningru" alias="poningru_ poningru_sleep poningru_work poningru_inebriated poningru_class poningru_cant_sleep poningru_study Capt_Blood_Poningru poningru_out poningru_cmc tipsy_poningru">
 <user nick="reed" alias="reed[] [reed] reed_ reed[down] reed[palm] reed[lap] reed^pirateguy reed2 reed[mobile] reed[DONTTALKTOME]">
 <user nick="ss" alias="ss|afk ss|mac|here ss|pitapit ss|scrubs ss|food ss|isketch ss|sigh ss|latinlover Capn-Black-Sam ss|bugmail ss|reading ss|hustle ss|ubuntu ss|hotel ss|CantSleep ss|work1 ss|writing ss|patching ss|Sm1 ss|work ss|gone ss|Zzz ss|lunch ss|tv ss|LOST ss|autoaway ss|fargo samuelsidler ss|work2 samuelsidler|work ssreed samuelsidler|gone ss|meeting ss|Zzzz ss|grr ss|packing ss|shower samuelsidler|VNC ss_">
-<user nick="Lucy" alias="Lucy|NOLA Lucy_ mrsconnor Commodore_Black_Lucy LucyPurpleHair">
+<user nick="Lucy" alias="Lucy|NOLA Lucy_ mrsconnor Commodore_Black_Lucy LucyPurpleHair Lucy__">
 <user nick="mconnor" alias="mconnor_">
 <user nick="stuart" alias="Pavlov pav stuart_XX">
 <user nick="cf" alias="cf2 cf_ cf_afk cf-afk cf|elsewhere">
@@ -22,7 +22,7 @@
 <user nick="bsmedberg" alias="csmedberg bsmedberg-away bsmedberg-lunch">
 <user nick="doron" alias="doronHome doron__ doron_">
 <user nick="preed" alias="preed-afk preed-fud preed-scotch preedMsgMe notpreed">
-<user nick="rhelmer" alias="rhelmer-afk">
+<user nick="rhelmer" alias="rhelmer-afk rhelmer|afk">
 <user nick="pkasting" alias="pkasting_home">
 <user nick="tor" alias="tor_">
 <user nick="Waldo" alias="Waldo|mac Waldo|arr">
@@ -126,13 +126,13 @@
 <user nick="Omnica" alias="Omnica|zZz">
 <user nick="Vardyr" alias="Vardyr|Off">
 <user nick="mellon" alias="Zingger">
-<user nick="dwitte" alias="dwitte_z">
+<user nick="dwitte" alias="dwitte_z dwitte_">
 
 <user nick="WizKid" alias="WizKid_">
 <user nick="steve_k" alias="steve_k_vm">
 <user nick="topa" alias="topa_">
 <user nick="sdwilsh" alias="comrade693 sdwilsh_ sdwilsh|away sdwilsh|study sdwilsh|sleep sdwilsh|class">
-<user nick="mwu" alias="bluetape">
+<user nick="mwu" alias="bluetape mwu_">
 <user nick="dmose" alias="emose fmose dmose2">
 <user nick="MisterSSL" alias="Mister-TLS">
 <user nick="Colin" alias="Colin|AFK Colin2">
