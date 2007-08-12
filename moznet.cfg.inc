@@ -12,7 +12,7 @@
 <user nick="mystic" alias="mystic_ca">
 <user nick="dveditz" alias="dveditz_ dveditz2">
 <user nick="poningru" alias="poningru_ poningru_sleep poningru_work poningru_inebriated poningru_class poningru_cant_sleep poningru_study Capt_Blood_Poningru poningru_out poningru_cmc tipsy_poningru">
-<user nick="reed" alias="reed[] [reed] reed_ reed[down] reed[palm] reed[lap] reed^pirateguy reed2 reed[mobile] reed[DONTTALKTOME]">
+<user nick="reed" alias="reed[] [reed] reed_ reed[down] reed[palm] reed[lap] reed^pirateguy reed2 reed[mobile] reed[DONTTALKTOME] reed[atfriends] reed-UNHAPPY">
 <user nick="ss" alias="ss|afk ss|mac|here ss|pitapit ss|scrubs ss|food ss|isketch ss|sigh ss|latinlover Capn-Black-Sam ss|bugmail ss|reading ss|hustle ss|ubuntu ss|hotel ss|CantSleep ss|work1 ss|writing ss|patching ss|Sm1 ss|work ss|gone ss|Zzz ss|lunch ss|tv ss|LOST ss|autoaway ss|fargo samuelsidler ss|work2 samuelsidler|work ssreed samuelsidler|gone ss|meeting ss|Zzzz ss|grr ss|packing ss|shower samuelsidler|VNC ss_ ss2">
 <user nick="Lucy" alias="Lucy|NOLA Lucy_ mrsconnor Commodore_Black_Lucy LucyPurpleHair Lucy__">
 <user nick="mconnor" alias="mconnor_">
@@ -67,16 +67,16 @@
 <user nick="lars" alias="lars|afk lars|npa lars|food">
 <user nick="clouserw" alias="clouservv">
 
-<user nick="cl" alias="cl|around cl|imnotasthinkasyoudrunkiam cl|pissed Blackbeard cl|grr cl|marchmadness cl-movie cl-work cflawson|out redonkulous Raid|KillsBugsDead cl|hatingHP cl|drnk cflawson|coding cl|WorldCup clawson cl-tv cl|flying cl|around-ish cl|foul_mood cl|lawn cl|leaving-soon cl|work cl|movie cl|sad cl|drunk cl|Letterman cl|watchingFootball cl|out cl|grrrrzzzzz cl|gone cl|studying cl|snack cl|dinner cl|not_tired cl|zzz cflawson cl|gone-ish cl|grrrr cl|TV cl|sudoku cl|rrr cl-zzz cl|in-n-out cflawson|zzz cl|grrrrrr cflawson|busy cl|breakfast cl|reading cl|lunch cl|busy cflawson|shower cl|flying-maybe cl|RAWR cl|football cl|w00000000000000000000000000 cl|away-ish cl|errands cl|ph00d cl|zzz-ish cl_">
+<user nick="cl" alias="cl|around cl|imnotasthinkasyoudrunkiam cl|pissed Blackbeard cl|grr cl|marchmadness cl-movie cl-work cflawson|out redonkulous Raid|KillsBugsDead cl|hatingHP cl|drnk cflawson|coding cl|WorldCup clawson cl-tv cl|flying cl|around-ish cl|foul_mood cl|lawn cl|leaving-soon cl|work cl|movie cl|sad cl|drunk cl|Letterman cl|watchingFootball cl|out cl|grrrrzzzzz cl|gone cl|studying cl|snack cl|dinner cl|not_tired cl|zzz cflawson cl|gone-ish cl|grrrr cl|TV cl|sudoku cl|rrr cl-zzz cl|in-n-out cflawson|zzz cl|grrrrrr cflawson|busy cl|breakfast cl|reading cl|lunch cl|busy cflawson|shower cl|flying-maybe cl|RAWR cl|football cl|w00000000000000000000000000 cl|away-ish cl|errands cl|ph00d cl|zzz-ish cl_ cl|IraqiProjectMinister cl|IraqiInternetMinister cl|Atlanta cl|MoCo cl|grrr cl|grrrrr cl|Drumline">
 <user nick="maxr" alias="max">
-<user nick="ardissone" alias="formerly-smokey ardissone|office ardissone|snarl ardissone|FUS ardissone|kinda ardissone|loopy smokey-away ardissone|hotchocolate ardissone|full ardissone|sigh ardissone|folding ardissone|black ardissone|pre-Zzz ardissone|food ardissone|dinner ardissone|out ardissone|in ardissone|dark ardissone|away ardissone|packing ardissone|grr ardissone|working smokey smokey|GA ardissone|grey ardissone|pie ardissone|icecream ardissone|foul ardissone|alZalam ardissone|about-to-sleep ardissone|eating ardissone|tired ardissone|grring ardissone|blurry ardissone|wash ardissone|foul_mood ardissone|hmm ardissone|sorta ardissone|afk ardissone|DHarf ardissone|adblocking ardissone|cake ardissone|grring-at-Bouncer ardissone|restoring ardissone|grr|folding ardissone|grr|pie ardissone|pre-eat ardissone|asstd ardissone|editing ardissone|meltedpie ardissone|here ardissone|pre-pack ardissone|tired-grumpy ardissone|arrr MrProject ardissone|Zzz ardissone|ish ardissone|builddocs ardissone|about-to-eat ardissone|majnun ardissone|edit ardissone|verbs ardissone|PA ardissone|relnotes MrCamino085 ardissone|wins ardissone|nodding ardissone|runover ardissone|ornery ardissone|OH ardissone|busy ardissone|rainy ardissone|graphs ardissone|queues ardissone|welcome ardissone|mowing ardissone|hrm ardissone|loses ardissone|yawn ardissone|exhausted ardissone|away-grr">
+<user nick="ardissone" alias="formerly-smokey ardissone|office ardissone|snarl ardissone|FUS ardissone|kinda ardissone|loopy smokey-away ardissone|hotchocolate ardissone|full ardissone|sigh ardissone|folding ardissone|black ardissone|pre-Zzz ardissone|food ardissone|dinner ardissone|out ardissone|in ardissone|dark ardissone|away ardissone|packing ardissone|grr ardissone|working smokey smokey|GA ardissone|grey ardissone|pie ardissone|icecream ardissone|foul ardissone|alZalam ardissone|about-to-sleep ardissone|eating ardissone|tired ardissone|grring ardissone|blurry ardissone|wash ardissone|foul_mood ardissone|hmm ardissone|sorta ardissone|afk ardissone|DHarf ardissone|adblocking ardissone|cake ardissone|grring-at-Bouncer ardissone|restoring ardissone|grr|folding ardissone|grr|pie ardissone|pre-eat ardissone|asstd ardissone|editing ardissone|meltedpie ardissone|here ardissone|pre-pack ardissone|tired-grumpy ardissone|arrr MrProject ardissone|Zzz ardissone|ish ardissone|builddocs ardissone|about-to-eat ardissone|majnun ardissone|edit ardissone|verbs ardissone|PA ardissone|relnotes MrCamino085 ardissone|wins ardissone|nodding ardissone|runover ardissone|ornery ardissone|OH ardissone|busy ardissone|rainy ardissone|graphs ardissone|queues ardissone|welcome ardissone|mowing ardissone|hrm ardissone|loses ardissone|yawn ardissone|exhausted ardissone|away-grr ardissone|ProfessorProject ardissone|headache ardissone|angry ardissone|no-ads ardissone|loony">
 <user nick="kreeger" alias="kreeger-lunch _kreeger kreeger_ kreeger-away kreeger-go-chiefs kreeger2">
 <user nick="froodian" alias="froodian|shootingselfinhead froodian|gf froodian|grading froodian|fixingshit froodian|drunk froodian|morecamino101 froodian|food froodian|work froodian|aroundish froodian|GRRRR froodian|grr froodian|phone froodiantherapy froodian|sleep froodian|away froodian_ froodian|out froodian|early froodian|afk froodian|brb ian|lastdayofinternet froodian|classes froodian|coding froodian|dark froodian|C froodian|algorithms froodian|21 froodian|java froodian|writing froodian|checkin froodian|checkins froodian|checking_in froodian|working froodian|paper froodian|shot froodian|wiki froodian|mm froodian|cpp froodian|slacking froodian|blue froodian|snowday">
 <user nick="aschulm" alias="aschulm|spring-has-sprung aschulm|class aschulm_lap aschulm_ aschulm|work aschulm|laptop aschulm|snooz aschulm|paper aschulm|sleep-work aschulm|finals aschulm|sleep aschulm|away aschulm|lab">
 <user nick="josh" alias="josh2 josh_laptop josh_">
 <user nick="smorgan" alias="smorgan_away smorgan_semi-away">
 <user nick="delliott" alias="deliott desmond delliott|study delliott|away delliott|slacking delliott|panic">
-<user nick="peeja" alias="peeja|garlic peeja_ peeja|sleep peeja|froodiansmac peeja|os1039 peeja|awake peeja|champagne">
+<user nick="peeja" alias="peeja|garlic peeja_ peeja|sleep peeja|froodiansmac peeja|os1039 peeja|awake peeja|champagne peeja|wiihunter peeja|vicariousWWDC peeja|moz">
 <user nick="DerekS" alias="DerekS_">
 <user nick="Wevah" alias="Wevah[z] Wevah[food] Wevah[afk] Wevah[work] Wevah[kip] DreadPirateWevah">
 <user nick="BDog" alias="BDog|Idle">
@@ -91,11 +91,13 @@
 <user nick="kfs" alias="kfs|work kfs_">
 <user nick="murph" alias="seanmurph">
 <user nick="BruceD" alias="BruceRD">
+<user nick="Jeff" alias="jeff|WWDC">
 
 <user nick="glob" alias="glob_work">
 <user nick="cls" alias="cls_">
 <user nick="LpSolit" alias="LpSolit_QA">
 <user nick="joel" alias="joel_lite">
+<user nick="FenixRF" alias="Fenix|work">
 
 <user nick="auenf" alias="auenf2 auenf_ auenfx2">
 <user nick="maki" alias="_RSZ_ victory rsz_x20 _RSZ__ _maki">
@@ -131,6 +133,7 @@
 <user nick="mellon" alias="Zingger">
 <user nick="dwitte" alias="dwitte_z dwitte_">
 <user nick="Triona" alias="Caitriona TrionaZZZ">
+<user nick="NSA" alias="`NSA` _NSA_">
 
 <user nick="WizKid" alias="WizKid_">
 <user nick="steve_k" alias="steve_k_vm">
@@ -167,3 +170,12 @@
 <user nick="chino" alias="chin1">
 <user nick="mrtech" alias="mrtech_out mrtech_work mrtech_mac">
 <user nick="Lawrence" alias="LawrenceAFK Lawrence2">
+<user nick="wsm" alias="wsm0 WSMwk">
+
+<user nick="mrz" alias="mrz_mb">
+
+<user nick="CIA" alias="CIA-1 CIA-5 CIA-27">
+<user nick="bradee-oh" alias="home-bradee">
+<user nick="zecke" alias="zecke_">
+<user nick="kollivier" alias="kollivier_">
+<user nick="seb_" alias="_seb">
