@@ -173,9 +173,3 @@
 <user nick="wsm" alias="wsm0 WSMwk">
 
 <user nick="mrz" alias="mrz_mb">
-
-<user nick="CIA" alias="CIA-1 CIA-5 CIA-27">
-<user nick="bradee-oh" alias="home-bradee">
-<user nick="zecke" alias="zecke_">
-<user nick="kollivier" alias="kollivier_">
-<user nick="seb_" alias="_seb">
