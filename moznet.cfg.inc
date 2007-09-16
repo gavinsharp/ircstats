@@ -138,7 +138,7 @@
 <user nick="WizKid" alias="WizKid_">
 <user nick="steve_k" alias="steve_k_vm">
 <user nick="topa" alias="topa_">
-<user nick="sdwilsh" alias="comrade693 sdwilsh_ sdwilsh|away sdwilsh|study sdwilsh|sleep sdwilsh|class sdwilsh|food">
+<user nick="sdwilsh" alias="comrade693 sdwilsh_ sdwilsh|away sdwilsh|study sdwilsh|sleep sdwilsh|class sdwilsh|food sdwilsh|unpacking sdwilsh|busy sdwilsh|sad">
 <user nick="mwu" alias="bluetape mwu_">
 <user nick="dmose" alias="emose fmose dmose2">
 <user nick="MisterSSL" alias="Mister-TLS">
