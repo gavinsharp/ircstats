@@ -1,9 +1,9 @@
 <user nick="gavin" alias="g gavinmb gavin_ gavin| gavin__ gavins gavin___ gavin2 gavin|lab gavin|away gavin|zzz gavin|l gavin_-_- gavin|d sharpg gavin\">
 <user nick="timeless" alias="timely timelyx wounded_monkey compiledmonkey proxy_monkey spidercrasher chistery chistery_ iunknown sslmonkey timelE61 timelE61i">
 <user nick="bz" alias="bz_away bz_gone bz_sleep bz_food bz_dinner bz_mac">
-<user nick="biesi" alias="biesi_ biesi-away biesi-win biesi-distracted biesi-CA biesi__">
+<user nick="biesi" alias="biesi_ biesi-away biesi-win biesi-distracted biesi-CA biesi__ biesingarrr">
 <user nick="smaug" alias="smaugAfk">
-<user nick="cbarrett" alias="cbarrett_ cbarrett_home cbarrett_sherrif cbarrett_work">
+<user nick="cbarrett" alias="cbarrett_ cbarrett_home cbarrett_sherrif cbarrett_work cbarrett_grouchy">
 <user nick="stephend" alias="stephend|study stephend|movie stephend|TV">
 <user nick="raccettura" alias="DIGITALgimpus">
 <user nick="Jesse" alias="Jesse_ Jesse_home Jesse|iSketch Jesse__">
@@ -12,8 +12,8 @@
 <user nick="mystic" alias="mystic_ca">
 <user nick="dveditz" alias="dveditz_ dveditz2">
 <user nick="poningru" alias="poningru_ poningru_sleep poningru_work poningru_inebriated poningru_class poningru_cant_sleep poningru_study Capt_Blood_Poningru poningru_out poningru_cmc tipsy_poningru">
-<user nick="reed" alias="reed[] [reed] reed_ reed[down] reed[palm] reed[lap] reed^pirateguy reed2 reed[mobile] reed[DONTTALKTOME] reed[atfriends] reed-UNHAPPY">
-<user nick="ss" alias="ss|afk ss|mac|here ss|pitapit ss|scrubs ss|food ss|isketch ss|sigh ss|latinlover Capn-Black-Sam ss|bugmail ss|reading ss|hustle ss|ubuntu ss|hotel ss|CantSleep ss|work1 ss|writing ss|patching ss|Sm1 ss|work ss|gone ss|Zzz ss|lunch ss|tv ss|LOST ss|autoaway ss|fargo samuelsidler ss|work2 samuelsidler|work ssreed samuelsidler|gone ss|meeting ss|Zzzz ss|grr ss|packing ss|shower samuelsidler|VNC ss_ ss2">
+<user nick="reed" alias="reed[] [reed] reed_ reed[down] reed[palm] reed[lap] reed^pirateguy reed2 reed[mobile] reed[DONTTALKTOME] reed[atfriends] reed-UNHAPPY reed|sad reed[incognito] ]reed[">
+<user nick="ss" alias="ss|afk ss|mac|here ss|pitapit ss|scrubs ss|food ss|isketch ss|sigh ss|latinlover Capn-Black-Sam ss|bugmail ss|reading ss|hustle ss|ubuntu ss|hotel ss|CantSleep ss|work1 ss|writing ss|patching ss|Sm1 ss|work ss|gone ss|Zzz ss|lunch ss|tv ss|LOST ss|autoaway ss|fargo samuelsidler ss|work2 samuelsidler|work ssreed samuelsidler|gone ss|meeting ss|Zzzz ss|grr ss|packing ss|shower samuelsidler|VNC ss_ ss2 DreadPirateSam">
 <user nick="Lucy" alias="Lucy|NOLA Lucy_ mrsconnor Commodore_Black_Lucy LucyPurpleHair Lucy__">
 <user nick="mconnor" alias="mconnor_">
 <user nick="stuart" alias="Pavlov pav stuart_XX">
@@ -115,7 +115,7 @@
 <user nick="Q_Continuum" alias="Q_Cont|intoxicated Q_Continuuum Q_Contoxicated Q_Confuzzled Q_Cont|drunk Q_intoxicated Q_Continuum_">
 <user nick="Tom" alias="Tom_ Thomas">
 <user nick="sysKin" alias="sysKin_away">
-<user nick="Kovu" alias="Kovu_">
+<user nick="Kovu" alias="Kovu_ Kovu_drinking">
 <user nick="Hendikins" alias="Hendikins|GoneToNZ Hendikins|ADSL Hendikins|Work Hendikins|LurkingWolfox Hendikins|NappingWolfox Hendikins|SSH Hendikins|NotWork Hendikins|NZ Hendikins|ProwlingWolfox">
 <user nick="Animal" alias="Animal_ CaffeinatedCowboy">
 <user nick="ct^" alias="ct^lap ct^^">
@@ -138,7 +138,7 @@
 <user nick="WizKid" alias="WizKid_">
 <user nick="steve_k" alias="steve_k_vm">
 <user nick="topa" alias="topa_">
-<user nick="sdwilsh" alias="comrade693 sdwilsh_ sdwilsh|away sdwilsh|study sdwilsh|sleep sdwilsh|class sdwilsh|food sdwilsh|unpacking sdwilsh|busy sdwilsh|sad">
+<user nick="sdwilsh" alias="comrade693 sdwilsh_ sdwilsh|away sdwilsh|study sdwilsh|sleep sdwilsh|class sdwilsh|food sdwilsh|unpacking sdwilsh|busy sdwilsh|sad sdwilsh|yar">
 <user nick="mwu" alias="bluetape mwu_">
 <user nick="dmose" alias="emose fmose dmose2">
 <user nick="MisterSSL" alias="Mister-TLS">
@@ -171,5 +171,5 @@
 <user nick="mrtech" alias="mrtech_out mrtech_work mrtech_mac">
 <user nick="Lawrence" alias="LawrenceAFK Lawrence2">
 <user nick="wsm" alias="wsm0 WSMwk">
-
 <user nick="mrz" alias="mrz_mb">
+<user nick="robarnold" alias="rob_arnold">
