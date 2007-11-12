@@ -9,13 +9,14 @@
 <user nick="Jesse" alias="Jesse_ Jesse_home Jesse|iSketch Jesse__">
 <user nick="jst" alias="jst_ jst__">
 <user nick="mcsmurf" alias="mcsmurf_">
+<user nick="Mardak" alias="Mardak_">
 <user nick="mystic" alias="mystic_ca">
 <user nick="dveditz" alias="dveditz_ dveditz2">
 <user nick="poningru" alias="poningru_ poningru_sleep poningru_work poningru_inebriated poningru_class poningru_cant_sleep poningru_study Capt_Blood_Poningru poningru_out poningru_cmc tipsy_poningru">
 <user nick="reed" alias="reed[] [reed] reed_ reed[down] reed[palm] reed[lap] reed^pirateguy reed2 reed[mobile] reed[DONTTALKTOME] reed[atfriends] reed-UNHAPPY reed|sad reed[incognito] ]reed[ reed[NEEDTIMEMACHINE]">
 <user nick="ss" alias="ss|afk ss|mac|here ss|pitapit ss|scrubs ss|food ss|isketch ss|sigh ss|latinlover Capn-Black-Sam ss|bugmail ss|reading ss|hustle ss|ubuntu ss|hotel ss|CantSleep ss|work1 ss|writing ss|patching ss|Sm1 ss|work ss|gone ss|Zzz ss|lunch ss|tv ss|LOST ss|autoaway ss|fargo samuelsidler ss|work2 samuelsidler|work ssreed samuelsidler|gone ss|meeting ss|Zzzz ss|grr ss|packing ss|shower samuelsidler|VNC ss_ ss2 DreadPirateSam">
 <user nick="Lucy" alias="Lucy|NOLA Lucy_ mrsconnor Commodore_Black_Lucy LucyPurpleHair Lucy__ CptnBlackLucy">
-<user nick="mconnor" alias="mconnor_">
+<user nick="mconnor" alias="mconnor_ mconnor_bb mconnorrrrr">
 <user nick="stuart" alias="Pavlov pav stuart_XX">
 <user nick="cf" alias="cf2 cf_ cf_afk cf-afk cf|elsewhere">
 <user nick="Mano" alias="ManoHides ManoBBL ManoOffice ManoZZZ ManoHome ManoMac Mano_ ManoAwol Mano|XP ManoGone ManoAway ManoFarAway ManoLaptop ManoShouldZZZ ManoBusy ManoTV ManoBerlin">
@@ -36,6 +37,7 @@
 <user nick="kbrosnan" alias="kb|mac brosnan kb|work Cpt_O|Malley_brosnan">
 <user nick="Yoric" alias="oYoric mYoric">
 <user nick="dietrich" alias="dietrich_ autonome">
+<user nick="Peter6" alias="Peter6_away">
 <user nick="ispiked" alias="ispiked_">
 <user nick="Wolf" alias="NotWolf Wolf|Prowling Wolf|Away X-Wolf Wolf_">
 <user nick="mconnor" alias="mconnor|vacation mconnor_afk mconnor_laptop">
@@ -46,7 +48,7 @@
 <user nick="beltzner" alias="beltzner|afk beltzner|away beltzner|zzz beltzner_ beltzner|fsoss">
 <user nick="markp" alias="markp_">
 <user nick="Mossop" alias="Mossop_away Mossop2 Mosssop Mossop_ Mossop_mobile Mossop_food">
-<user nick="dolske" alias="dolske|CA dolske|BFE dolske|N800 dolske_">
+<user nick="dolske" alias="dolske|CA dolske|BFE dolske|N800 dolske_ DreadCaptainDolske">
 <user nick="pkim" alias="pkim_">
 <user nick="jminta" alias="jmacminta jminta_">
 <user nick="aaronlev" alias="aaronlufthansa aaronl aaronbeer">
@@ -145,12 +147,13 @@
 <user nick="mwu" alias="bluetape mwu_">
 <user nick="dmose" alias="emose fmose dmose2">
 <user nick="MisterSSL" alias="Mister-TLS">
+<user nick="davida" alias="dascher">
 <user nick="Colin" alias="Colin|AFK Colin2">
 <user nick="bienvenu" alias="davidbienvenu bienvenu_">
 <user nick="myk" alias="myk_">
 <user nick="jay" alias="jay_zzz">
 <user nick="jeremy" alias="jeremy|hmwk linuxmigration linuxmigration_ Lieutenant_Jeremy jeremy|afk jeremy_ jeremy__">
-<user nick="Asa" alias="Asa_">
+<user nick="Asa" alias="Asa_ asadotzler">
 <user nick="Hixie" alias="Hixie_ Hixie-">
 <user nick="alanjstr" alias="alanjstr|Work">
 <user nick="ssieb" alias="ssieb_roam ssieb_work">
@@ -160,13 +163,14 @@
 <user nick="crowder" alias="cr0wder">
 <user nick="ben" alias="ben_">
 <user nick="bugs" alias="bugs_coding">
-<user nick="asqueella" alias="asqueella_opera">
+<user nick="asqueella" alias="asqueella_opera asqueella_">
 <user nick="Adam" alias="Adam__">
 <user nick="stilist" alias="stilist\away">
 <user nick="mw22" alias="mw22_away">
 <user nick="factoryjoe" alias="factoryjoe_">
 <user nick="jag" alias="jag|Zzzzz">
 <user nick="taf2" alias="taf2_">
+<user nick="bugbot" alias="supybot">
 <user nick="deq" alias="deq_">
 <user nick="thunder" alias="v_thunder">
 <user nick="Silver" alias="Silver_work [Not]Silver Silver|away">

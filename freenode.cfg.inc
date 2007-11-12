@@ -1,5 +1,6 @@
-<user nick="othermaciej" alias="othermaciej_ om_out om_meet om_sleep">
+<user nick="othermaciej" alias="othermacie othermaciej_ om_out om_meet om_sleep">
 <user nick="MacDome" alias="MacDomeAFK MacDomeSleep MacDome_ MacDomeRuby MacDomePack">
+<user nick="Catfish_Man" alias="Catfish">
 <user nick="dhyatt" alias="hyatt">
 <user nick="cheers" alias="cheers_">
 <user nick="olliej" alias="olliej_">
@@ -8,7 +9,7 @@
 <user nick="xenon" alias="xenon_ nonex">
 <user nick="darin" alias="darin_ darinMeet">
 <user nick="mitz" alias="mitzpettel mitz|away">
-<user nick="weinig" alias="sweinig">
+<user nick="weinig" alias="sweinig weinig_ weinigLap">
 <user nick="tcooper" alias="tcooper_">
 <user nick="bradee-oh" alias="bradee-oh_ home_bradee home-bradee">
 <user nick="ddkilzer" alias="ddk|afk">
