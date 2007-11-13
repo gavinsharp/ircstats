@@ -9,7 +9,7 @@
 <user nick="Jesse" alias="Jesse_ Jesse_home Jesse|iSketch Jesse__">
 <user nick="jst" alias="jst_ jst__">
 <user nick="mcsmurf" alias="mcsmurf_">
-<user nick="wormsxulla" alias="worms_invasion wormszilla worms_z worms_x worm_invasion wormxulla worms_zillah">
+<user nick="wormsxulla" alias="worms_invasion wormszilla worms_z worms_x worm_invasion wormxulla worms_zillah worms979 sideworms wormsworms">
 <user nick="Mardak" alias="Mardak_">
 <user nick="mystic" alias="mystic_ca">
 <user nick="dveditz" alias="dveditz_ dveditz2">
