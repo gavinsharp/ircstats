@@ -12,6 +12,7 @@
 <user nick="wormsxulla" alias="worms_invasion wormszilla worms_z worms_x worm_invasion wormxulla worms_zillah worms979 sideworms wormsworms">
 <user nick="Mardak" alias="Mardak_">
 <user nick="mystic" alias="mystic_ca">
+<user nick="Mook" alias="Mook_sb">
 <user nick="dveditz" alias="dveditz_ dveditz2">
 <user nick="poningru" alias="poningru_ poningru_sleep poningru_work poningru_inebriated poningru_class poningru_cant_sleep poningru_study Capt_Blood_Poningru poningru_out poningru_cmc tipsy_poningru">
 <user nick="reed" alias="reed[] [reed] reed_ reed[down] reed[palm] reed[lap] reed^pirateguy reed2 reed[mobile] reed[DONTTALKTOME] reed[atfriends] reed-UNHAPPY reed|sad reed[incognito] ]reed[ reed[NEEDTIMEMACHINE]">
