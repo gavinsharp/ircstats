@@ -1,6 +1,6 @@
 <user nick="gavin" alias="g gavinmb gavin_ gavin| gavin__ gavins gavin___ gavin2 gavin|lab gavin|away gavin|zzz gavin|l gavin_-_- gavin|d sharpg gavin\ gavin|fsoss gav">
 <user nick="timeless" alias="timely timelyx wounded_monkey compiledmonkey proxy_monkey spidercrasher chistery chistery_ iunknown sslmonkey timelE61 timelE61i">
-<user nick="bz" alias="bz_away bz_gone bz_sleep bz_food bz_dinner bz_mac">
+<user nick="bz" alias="bz_away bz_gone bz_sleep bz_food bz_dinner bz_mac bz_baby">
 <user nick="biesi" alias="biesi_ biesi-away biesi-win biesi-distracted biesi-CA biesi__ biesingarrr">
 <user nick="smaug" alias="smaugAfk">
 <user nick="cbarrett" alias="cbarrett_ cbarrett_home cbarrett_sherrif cbarrett_work cbarrett_grouchy cbarrett_sick cbarrett_sheriff">
@@ -24,7 +24,7 @@
 <user nick="Mook" alias="Mook_sb">
 <user nick="chesh" alias="chesh|away">
 <user nick="aconbere" alias="aconbere|work aconbere_ aconbere_S aconbere|mobile">
-<user nick="bsmedberg" alias="csmedberg bsmedberg-away bsmedberg-lunch">
+<user nick="bsmedberg" alias="csmedberg bsmedberg-away bsmedberg-lunch bsmedberg-daddyduty">
 <user nick="doron" alias="doronHome doron__ doron_">
 <user nick="preed" alias="preed-afk preed-fud preed-scotch preedMsgMe notpreed">
 <user nick="rhelmer" alias="rhelmer-afk rhelmer|afk">
