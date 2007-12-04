@@ -140,13 +140,13 @@
 <user nick="dwitte" alias="dwitte_z dwitte_">
 <user nick="Triona" alias="Caitriona TrionaZZZ">
 <user nick="NSA" alias="`NSA` _NSA_">
-
+<user nick="sspitzer" alias="sspitzerMsgMe">
 <user nick="WizKid" alias="WizKid_">
 <user nick="steve_k" alias="steve_k_vm">
 <user nick="topa" alias="topa_">
 <user nick="sdwilsh" alias="comrade693 sdwilsh_ sdwilsh|away sdwilsh|study sdwilsh|sleep sdwilsh|class sdwilsh|food sdwilsh|unpacking sdwilsh|busy sdwilsh|sad sdwilsh|yar">
 <user nick="mwu" alias="bluetape mwu_">
-<user nick="dmose" alias="emose fmose dmose2 dmose_Sheriff">
+<user nick="dmose" alias="emose fmose dmose2 dmose_Sheriff dmoseMsgMe">
 <user nick="MisterSSL" alias="Mister-TLS">
 <user nick="davida" alias="dascher">
 <user nick="Colin" alias="Colin|AFK Colin2">
