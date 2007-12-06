@@ -50,7 +50,7 @@
 <user nick="beltzner" alias="beltzner|afk beltzner|away beltzner|zzz beltzner_ beltzner|fsoss">
 <user nick="markp" alias="markp_">
 <user nick="Mossop" alias="Mossop_away Mossop2 Mosssop Mossop_ Mossop_mobile Mossop_food">
-<user nick="dolske" alias="dolske|CA dolske|BFE dolske|N800 dolske_ DreadCaptainDolske">
+<user nick="dolske" alias="dolske|CA dolske|BFE dolske|N800 dolske_ DreadCaptainDolske dolske_sheriff">
 <user nick="pkim" alias="pkim_">
 <user nick="jminta" alias="jmacminta jminta_">
 <user nick="aaronlev" alias="aaronlufthansa aaronl aaronbeer">
