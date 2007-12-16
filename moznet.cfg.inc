@@ -55,7 +55,7 @@
 <user nick="jminta" alias="jmacminta jminta_">
 <user nick="aaronlev" alias="aaronlufthansa aaronl aaronbeer">
 <user nick="sayrer" alias="sayyaaaar sayrer_ sayrer_shrf sayrer_afk sayre1">
-<user nick="bhearsum" alias="Cpt_Beer_Some bhearsum|afk">
+<user nick="bhearsum" alias="Cpt_Beer_Some bhearsum|afk bhearsum|pain bhearsum|food">
 <user nick="morgamic" alias="morgamic|afk morgamic|inbound morgamic|gym morgamic|puppy morgamic|LA morgamic|lunch-1-dot-oh morgamic|mfbt morgamic|coffee morgamic|mfbt">
 <user nick="zach" alias="zach_sleep zach__ zach-bft zach_">
 <user nick="Cameron" alias="Cameron|afk">
@@ -73,6 +73,13 @@
 <user nick="wenzel" alias="wenzel|afk">
 <user nick="lars" alias="lars|afk lars|npa lars|food">
 <user nick="clouserw" alias="clouservv">
+
+<user nick="elichak" alias="elichak_working elichak|bts730 elichak_ elichak|work elichak|afk elichak|testing elichak|working elichak|zzZZzz elichak|long_day elichak|fixing elichak|gone elichak|agony">
+<user nick="cesar" alias="cesar[fired] cesar[victoria_day] cesar-whiney cesar[away] cesar-matrix cesar[exams]">
+<user nick="ctyler" alias="ctyler-at-seneca ctyler-roaming ctyler-in-class ctyler-not-cesar ctyler_roaming ">
+<user nick="lsblakk" alias="lsblakk_ lsblakk_laptop lsblakk_ext">
+<user nick="armenzg" alias="armenzg-mac armenzg_at_home armenzg_python armenzg_afk">
+
 
 <user nick="cl" alias="cl|around cl|imnotasthinkasyoudrunkiam cl|pissed Blackbeard cl|grr cl|marchmadness cl-movie cl-work cflawson|out redonkulous Raid|KillsBugsDead cl|hatingHP cl|drnk cflawson|coding cl|WorldCup clawson cl-tv cl|flying cl|around-ish cl|foul_mood cl|lawn cl|leaving-soon cl|work cl|movie cl|sad cl|drunk cl|Letterman cl|watchingFootball cl|out cl|grrrrzzzzz cl|gone cl|studying cl|snack cl|dinner cl|not_tired cl|zzz cflawson cl|gone-ish cl|grrrr cl|TV cl|sudoku cl|rrr cl-zzz cl|in-n-out cflawson|zzz cl|grrrrrr cflawson|busy cl|breakfast cl|reading cl|lunch cl|busy cflawson|shower cl|flying-maybe cl|RAWR cl|football cl|w00000000000000000000000000 cl|away-ish cl|errands cl|ph00d cl|zzz-ish cl_ cl|IraqiProjectMinister cl|IraqiInternetMinister cl|Atlanta cl|MoCo cl|grrr cl|grrrrr cl|Drumline">
 <user nick="maxr" alias="max">
