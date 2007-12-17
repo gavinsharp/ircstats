@@ -1,9 +1,9 @@
-<user nick="othermaciej" alias="othermacie othermaciej_ om_out om_meet om_sleep">
+<user nick="othermaciej" alias="othermacie othermaciej_ om_out om_meet om_sleep mjs">
 <user nick="MacDome" alias="MacDomeAFK MacDomeSleep MacDome_ MacDomeRuby MacDomePack">
 <user nick="Catfish_Man" alias="Catfish">
 <user nick="dhyatt" alias="hyatt">
 <user nick="cheers" alias="cheers_">
-<user nick="olliej" alias="olliej_">
+<user nick="olliej" alias="olliej_ olliej|pirate fakeolliej">
 <user nick="lars" alias="lars|home">
 <user nick="andersca" alias="andersca_">
 <user nick="xenon" alias="xenon_ nonex">
@@ -19,7 +19,12 @@
 <user nick="wildfox" alias="wild|zzz wild|brb wild|away Wild|TV">
 <user nick="rwlbuis" alias="rwlbuis|bbl">
 <user nick="rtyler" alias="rtyler|intel">
-<user nick="CIA" alias="CIA-1 CIA-5 CIA-27 CIA-10 CIA-19 CIA-6 CIA-22 CIA-7 CIA-2 CIA-18 CIA-4 CIA-17 CIA-12">
+<user nick="CIA" alias="CIA-1 CIA-5 CIA-27 CIA-10 CIA-19 CIA-6 CIA-22 CIA-7 CIA-2 CIA-18 CIA-4 CIA-17 CIA-12 CIA-11">
 <user nick="zecke" alias="zecke_">
 <user nick="kollivier" alias="kollivier_">
 <user nick="seb_" alias="_seb">
+<user nick="AngryLuke" alias="AngryLuke_ICBM">
+<user nick="aroben" alias="aroben_">
+<user nick="kalikiana" alias="kalikiana_">
+<user nick="jeremyb" alias="jeremyb_">
+<user nick="joshmoz" alias="joshmoz_">
