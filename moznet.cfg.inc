@@ -4,7 +4,7 @@
 <user nick="biesi" alias="biesi_ biesi-away biesi-win biesi-distracted biesi-CA biesi__ biesingarrr">
 <user nick="smaug" alias="smaugAfk">
 <user nick="cbarrett" alias="cbarrett_ cbarrett_home cbarrett_sherrif cbarrett_work cbarrett_grouchy cbarrett_sick cbarrett_sheriff">
-<user nick="stephend" alias="stephend|study stephend|movie stephend|TV stephend|afk">
+<user nick="stephend" alias="stephend|study stephend|movie stephend|TV stephend|afk stephend|lunch">
 <user nick="raccettura" alias="DIGITALgimpus">
 <user nick="Jesse" alias="Jesse_ Jesse_home Jesse|iSketch Jesse__">
 <user nick="jst" alias="jst_ jst__">
@@ -213,3 +213,5 @@
 <user nick="robarnold" alias="rob_arnold">
 <user nick="madhava" alias="madhava_">
 <user nick="jcraig" alias="jcraig|away">
+<user nick="koifans" alias="koifans_ koifans|away">
+<user nick="kinetik" alias="kinetik_">
