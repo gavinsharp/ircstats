@@ -87,7 +87,7 @@
 <user nick="RealMarkP" alias="RealMarkP_Class RealMarkP_Work">
 <user nick="ashughes" alias="ashughes[class]">
 <user nick="jb" alias="jb- jb_">
-<user nick="marcia" alias="marcia_vista">
+<user nick="marcia" alias="marcia_vista marcia_">
 <user nick="mfinkle" alias="mfinkle-afk">
 <user nick="dominic" alias="dominic|study">
 <user nick="inveigle" alias="inveigle_afk inveigle_mobile">
