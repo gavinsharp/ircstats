@@ -20,7 +20,8 @@
 <user nick="Lucy" alias="Lucy|NOLA Lucy_ mrsconnor Commodore_Black_Lucy LucyPurpleHair Lucy__ CptnBlackLucy">
 <user nick="mconnor" alias="mconnor_ mconnor_bb mconnorrrrr">
 <user nick="stuart" alias="Pavlov pav stuart_XX">
-<user nick="cf" alias="cf2 cf_ cf_afk cf-afk cf|elsewhere">
+<user nick="cf" alias="cf2 cf_ cf_afk cf-afk cf|elsewhere cf_nthomas cf_nthomas|afk">
+<user nick="olliej" alias="olliej_ fakeolliej">
 <user nick="Mano" alias="ManoHides ManoBBL ManoOffice ManoZZZ ManoHome ManoMac Mano_ ManoAwol Mano|XP ManoGone ManoAway ManoFarAway ManoLaptop ManoShouldZZZ ManoBusy ManoTV ManoBerlin">
 <user nick="Mook" alias="Mook_sb">
 <user nick="chesh" alias="chesh|away">
