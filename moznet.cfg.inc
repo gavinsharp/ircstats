@@ -66,7 +66,7 @@
 <user nick="lilmatt" alias="lilmatt_">
 <user nick="sp3000" alias="sp3k sp3001">
 <user nick="redfive" alias="redfive_x64">
-<user nick="luser" alias="luser_ ted luser|toronto luser|ca luser|eh">
+<user nick="ted" alias="luser luser_ luser|toronto luser|ca luser|eh">
 <user nick="gen" alias="gen_">
 <user nick="Littlemutt" alias="Littlemutt_afk">
 
