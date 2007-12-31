@@ -7,7 +7,7 @@
 <user nick="stephend" alias="stephend|study stephend|movie stephend|TV stephend|afk stephend|lunch">
 <user nick="raccettura" alias="DIGITALgimpus">
 <user nick="Jesse" alias="Jesse_ Jesse_home Jesse|iSketch Jesse__">
-<user nick="jst" alias="jst_ jst__">
+<user nick="jst" alias="jst_ jst__ jst_home jst_home_ jst_home__ jst_vacation">
 <user nick="mcsmurf" alias="mcsmurf_">
 <user nick="wormsxulla" alias="worms_invasion wormszilla worms_z worms_x worm_invasion wormxulla worms_zillah worms979 sideworms wormsworms">
 <user nick="Mardak" alias="Mardak_">
@@ -15,7 +15,7 @@
 <user nick="Mook" alias="Mook_sb">
 <user nick="dveditz" alias="dveditz_ dveditz2">
 <user nick="poningru" alias="poningru_ poningru_sleep poningru_work poningru_inebriated poningru_class poningru_cant_sleep poningru_study Capt_Blood_Poningru poningru_out poningru_cmc tipsy_poningru">
-<user nick="reed" alias="reed[] [reed] reed_ reed[down] reed[palm] reed[lap] reed^pirateguy reed2 reed[mobile] reed[DONTTALKTOME] reed[atfriends] reed-UNHAPPY reed|sad reed[incognito] ]reed[ reed[NEEDTIMEMACHINE]">
+<user nick="reed" alias="reed[] [reed] reed_ reed[down] reed[palm] reed[lap] reed^pirateguy reed2 reed[mobile] reed[DONTTALKTOME] reed[atfriends] reed-UNHAPPY reed|sad reed[incognito] ]reed[ reed[NEEDTIMEMACHINE] reed|doppelganger reed|pimpedout reed-HAPPIER reed-ANGRY reed|MrMom reed__ reed[studying] reed[irssi] reed|GiveMeAPony">
 <user nick="ss" alias="ss|afk ss|mac|here ss|pitapit ss|scrubs ss|food ss|isketch ss|sigh ss|latinlover Capn-Black-Sam ss|bugmail ss|reading ss|hustle ss|ubuntu ss|hotel ss|CantSleep ss|work1 ss|writing ss|patching ss|Sm1 ss|work ss|gone ss|Zzz ss|lunch ss|tv ss|LOST ss|autoaway ss|fargo samuelsidler ss|work2 samuelsidler|work ssreed samuelsidler|gone ss|meeting ss|Zzzz ss|grr ss|packing ss|shower samuelsidler|VNC ss_ ss2 DreadPirateSam">
 <user nick="Lucy" alias="Lucy|NOLA Lucy_ mrsconnor Commodore_Black_Lucy LucyPurpleHair Lucy__ CptnBlackLucy">
 <user nick="mconnor" alias="mconnor_ mconnor_bb mconnorrrrr">
@@ -50,8 +50,8 @@
 <user nick="foxbot" alias="FoxBot foxbot2 IRCMonkey44662">
 <user nick="beltzner" alias="beltzner|afk beltzner|away beltzner|zzz beltzner_ beltzner|fsoss">
 <user nick="markp" alias="markp_">
-<user nick="Mossop" alias="Mossop_away Mossop2 Mosssop Mossop_ Mossop_mobile Mossop_food Mossop_busy">
-<user nick="dolske" alias="dolske|CA dolske|BFE dolske|N800 dolske_ DreadCaptainDolske dolske_sheriff">
+<user nick="Mossop" alias="Mossop_away Mossop2 Mosssop Mossop_ Mossop_mobile Mossop_food Mossop_busy Mossop_sleep Mossop_gone Mossop_lunch Mossop_gym">
+<user nick="dolske" alias="dolske|CA dolske|BFE dolske|N800 dolske_ DreadCaptainDolske dolske_sheriff dolske|lunch dolske|dentist dolske|afk dolske|drwho dolske|movie">
 <user nick="pkim" alias="pkim_">
 <user nick="jminta" alias="jmacminta jminta_">
 <user nick="aaronlev" alias="aaronlufthansa aaronl aaronbeer">
@@ -167,7 +167,7 @@
 <user nick="Omnica" alias="Omnica|zZz">
 <user nick="Vardyr" alias="Vardyr|Off">
 <user nick="mellon" alias="Zingger">
-<user nick="dwitte" alias="dwitte_z dwitte_">
+<user nick="dwitte" alias="dwitte_z dwitte_ dwitte_poker dwitte_pool dwitte_wrk dwitte_pcakes dwitte__ dwitte_involuntary_cleaning dwitte_airporting dwitte_oot dwitte_z_then_pcakes dwitte_A dwitte_halving dwitte_rollin dwitte_splat dwitte_zzzzzzz dwitte_shwr dwitte_really_pc dwitte_pc dwitte_splutter dwitte_snoring dwitte_screw dwitte_wrkin dwitte_friiiiday dwitte_xfrmrs dwitte_bfd dwitte_eat dwitte[HONORARY_CANADA_DAY] dwitte_notwrk dwitte_stanford dwitte_splash dwitte_away dwitte_mtg dwitte_moco dwitte_pancakes dwitte_airpt dwitte_comatose dwitte_hiding dwitte_sweating dwitte_lunch dwitte_out dwitte_bbl dwitte_tv dwitte_snuggling dwitte_coffee dwitte_restless_z">
 <user nick="Triona" alias="Caitriona TrionaZZZ">
 <user nick="NSA" alias="`NSA` _NSA_">
 <user nick="sspitzer" alias="sspitzerMsgMe">
@@ -191,7 +191,7 @@
 <user nick="mrbkap" alias="mrb-away">
 <user nick="Gijs" alias="HB-away Hannibal Hannibal_ Hannibal-afk Gijs_">
 <user nick="db48x" alias="db48xFromElsewhere db48xFromElsewhereAgain">
-<user nick="crowder" alias="cr0wder">
+<user nick="crowder" alias="cr0wder shrf_crowder">
 <user nick="ben" alias="ben_">
 <user nick="bugs" alias="bugs_coding">
 <user nick="asqueella" alias="asqueella_opera asqueella_">
@@ -209,7 +209,7 @@
 <user nick="mrtech" alias="mrtech_out mrtech_work mrtech_mac">
 <user nick="Lawrence" alias="LawrenceAFK Lawrence2">
 <user nick="wsm" alias="wsm0 WSMwk">
-<user nick="mrz" alias="mrz_mb mrz_mac">
+<user nick="mrz" alias="mrz_mb mrz_mac mrz_vacation mrz_poweroutage mrz_work mrz_moco mrz_evdo mrz_ mrz__ mrz_mb mrz-iphone mrz_home mrz-colo mrz-mb">
 <user nick="robarnold" alias="rob_arnold">
 <user nick="madhava" alias="madhava_">
 <user nick="jcraig" alias="jcraig|away">
