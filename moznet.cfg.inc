@@ -70,7 +70,7 @@
 <user nick="gen" alias="gen_">
 <user nick="Littlemutt" alias="Littlemutt_afk">
 
-<user nick="fligtar" alias="fligtar|afk fligtar|packing fligtar|toolbartuesday fligtar_ fligtar|invisible">
+<user nick="fligtar" alias="fligtar|afk fligtar|packing fligtar|toolbartuesday fligtar_ fligtar|invisible fligtar|brb fligtarrrrrrr fligtar|stuff fligtar|oghp fligtar|somewhere fligtar|reallyafk">
 <user nick="wenzel" alias="wenzel|afk">
 <user nick="lars" alias="lars|afk lars|npa lars|food">
 <user nick="clouserw" alias="clouservv">
@@ -209,7 +209,7 @@
 <user nick="mrtech" alias="mrtech_out mrtech_work mrtech_mac">
 <user nick="Lawrence" alias="LawrenceAFK Lawrence2">
 <user nick="wsm" alias="wsm0 WSMwk">
-<user nick="mrz" alias="mrz_mb">
+<user nick="mrz" alias="mrz_mb mrz_mac">
 <user nick="robarnold" alias="rob_arnold">
 <user nick="madhava" alias="madhava_">
 <user nick="jcraig" alias="jcraig|away">
