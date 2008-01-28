@@ -15,7 +15,7 @@
 <user nick="Mook" alias="Mook_sb">
 <user nick="dveditz" alias="dveditz_ dveditz2">
 <user nick="poningru" alias="poningru_ poningru_sleep poningru_work poningru_inebriated poningru_class poningru_cant_sleep poningru_study Capt_Blood_Poningru poningru_out poningru_cmc tipsy_poningru">
-<user nick="reed" alias="reed[] [reed] reed_ reed[down] reed[palm] reed[lap] reed^pirateguy reed2 reed[mobile] reed[DONTTALKTOME] reed[atfriends] reed-UNHAPPY reed|sad reed[incognito] ]reed[ reed[NEEDTIMEMACHINE] reed|doppelganger reed|pimpedout reed-HAPPIER reed-ANGRY reed|MrMom reed__ reed[studying] reed[irssi] reed|GiveMeAPony">
+<user nick="reed" alias="reed[] [reed] reed_ reed[down] reed[palm] reed[lap] reed^pirateguy reed2 reed[mobile] reed[DONTTALKTOME] reed[atfriends] reed-UNHAPPY reed|sad reed[incognito] ]reed[ reed[NEEDTIMEMACHINE] reed|doppelganger reed|pimpedout reed-HAPPIER reed-ANGRY reed|MrMom reed__ reed[studying] reed[irssi] reed|GiveMeAPony reed[sheriff]">
 <user nick="ss" alias="ss|afk ss|mac|here ss|pitapit ss|scrubs ss|food ss|isketch ss|sigh ss|latinlover Capn-Black-Sam ss|bugmail ss|reading ss|hustle ss|ubuntu ss|hotel ss|CantSleep ss|work1 ss|writing ss|patching ss|Sm1 ss|work ss|gone ss|Zzz ss|lunch ss|tv ss|LOST ss|autoaway ss|fargo samuelsidler ss|work2 samuelsidler|work ssreed samuelsidler|gone ss|meeting ss|Zzzz ss|grr ss|packing ss|shower samuelsidler|VNC ss_ ss2 DreadPirateSam">
 <user nick="Lucy" alias="Lucy|NOLA Lucy_ mrsconnor Commodore_Black_Lucy LucyPurpleHair Lucy__ CptnBlackLucy">
 <user nick="mconnor" alias="mconnor_ mconnor_bb mconnorrrrr">
