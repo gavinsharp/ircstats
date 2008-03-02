@@ -56,7 +56,7 @@
 <user nick="jminta" alias="jmacminta jminta_">
 <user nick="aaronlev" alias="aaronlufthansa aaronl aaronbeer">
 <user nick="sayrer" alias="sayyaaaar sayrer_ sayrer_shrf sayrer_afk sayre1">
-<user nick="bhearsum" alias="Cpt_Beer_Some bhearsum|afk bhearsum|pain bhearsum|food">
+<user nick="bhearsum" alias="Cpt_Beer_Some bhearsum|afk bhearsum|pain bhearsum|food bhearsum|mtg">
 <user nick="morgamic" alias="morgamic|afk morgamic|inbound morgamic|gym morgamic|puppy morgamic|LA morgamic|lunch-1-dot-oh morgamic|mfbt morgamic|coffee morgamic|mfbt">
 <user nick="zach" alias="zach_sleep zach__ zach-bft zach_">
 <user nick="Cameron" alias="Cameron|afk">
@@ -76,7 +76,7 @@
 <user nick="clouserw" alias="clouservv">
 
 <user nick="elichak" alias="elichak_working elichak|bts730 elichak_ elichak|work elichak|afk elichak|testing elichak|working elichak|zzZZzz elichak|long_day elichak|fixing elichak|gone elichak|agony elichak_notAtHome chak|life">
-<user nick="cesar" alias="cesar[fired] cesar[victoria_day] cesar-whiney cesar[away] cesar-matrix cesar[exams] cesar[netbsd] cesar-home cesar_ Cesar128">
+<user nick="cesar" alias="cesar[fired] cesar[victoria_day] cesar-whiney cesar[away] cesar-matrix cesar[exams] cesar[netbsd] cesar-home cesar_ Cesar128 cesar__ _cesar_ cesar[mission_improbable]">
 <user nick="ctyler" alias="ctyler-at-seneca ctyler-roaming ctyler-in-class ctyler-not-cesar ctyler_roaming">
 <user nick="lsblakk" alias="lsblakk_ lsblakk_laptop lsblakk_ext">
 <user nick="armenzg" alias="armenzg-mac armenzg_at_home armenzg_python armenzg_afk armen-linux">
@@ -94,7 +94,7 @@
 <user nick="eor" alias="eor_sick eor|afk eor_">
 <user nick="davel" alias="davel_afk">
 <user nick="cozby" alias="cozby|seneca cozby_ cozby_AFK">
-<user nick="philly" alias="philly|afk philly_wow">
+<user nick="philly" alias="philly|afk philly_wow philly_">
 <user nick="sancus" alias="sancus_">
 <user nick="Vanessa" alias="Vanessa_">
 <user nick="pstdenis" alias="pstdenis_">
@@ -215,3 +215,4 @@
 <user nick="jcraig" alias="jcraig|away">
 <user nick="koifans" alias="koifans_ koifans|away">
 <user nick="kinetik" alias="kinetik_">
+<user nick="awdelyea" alias="awdelyea_">
