@@ -9,7 +9,7 @@
 <user nick="Jesse" alias="Jesse_ Jesse_home Jesse|iSketch Jesse__">
 <user nick="jst" alias="jst_ jst__ jst_home jst_home_ jst_home__ jst_vacation">
 <user nick="mcsmurf" alias="mcsmurf_">
-<user nick="wormsxulla" alias="worms_invasion wormszilla worms_z worms_x worm_invasion wormxulla worms_zillah worms979 sideworms wormsworms">
+<user nick="wormsxulla" alias="worms_invasion wormszilla worms_z worms_x worm_invasion wormxulla worms_zillah worms979 sideworms wormsworms emoxulla worms_songB roquette wx2la bunnyzilla">
 <user nick="Mardak" alias="Mardak_">
 <user nick="mystic" alias="mystic_ca mystic|working mystic|AskMeForHelp">
 <user nick="Mook" alias="Mook_sb">
@@ -187,9 +187,9 @@
 <user nick="Asa" alias="Asa_ asadotzler">
 <user nick="Hixie" alias="Hixie_ Hixie-">
 <user nick="alanjstr" alias="alanjstr|Work">
-<user nick="ssieb" alias="ssieb_roam ssieb_work">
+<user nick="ssieb" alias="ssieb_roam ssieb_work ssieb_home">
 <user nick="mrbkap" alias="mrb-away">
-<user nick="Gijs" alias="HB-away Hannibal Hannibal_ Hannibal-afk Gijs_">
+<user nick="Gijs" alias="HB-away Hannibal Hannibal_ Hannibal-afk Gijs_ Gijs2">
 <user nick="db48x" alias="db48xFromElsewhere db48xFromElsewhereAgain">
 <user nick="crowder" alias="cr0wder shrf_crowder">
 <user nick="ben" alias="ben_">
@@ -216,3 +216,8 @@
 <user nick="koifans" alias="koifans_ koifans|away">
 <user nick="kinetik" alias="kinetik_">
 <user nick="awdelyea" alias="awdelyea_">
+<user nick="Mitch" alias="Mitch_1_2">
+<user nick="Glenjamin" alias="ReadMe">
+<user nick="hagabaka" alias="hagabaka_">
+<user nick="Spikor" alias="Spikor|work">
+<user nick="Havvy" alias="Havvy|">
