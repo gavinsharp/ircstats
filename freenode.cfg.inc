@@ -19,7 +19,7 @@
 <user nick="wildfox" alias="wild|zzz wild|brb wild|away Wild|TV">
 <user nick="rwlbuis" alias="rwlbuis|bbl rwlbuis|work">
 <user nick="rtyler" alias="rtyler|intel">
-<user nick="CIA" alias="CIA-1 CIA-5 CIA-27 CIA-10 CIA-19 CIA-6 CIA-22 CIA-7 CIA-2 CIA-18 CIA-4 CIA-17 CIA-12 CIA-11 CIA-43">
+<user nick="CIA" alias="CIA-\d+">
 <user nick="zecke" alias="zecke_">
 <user nick="kollivier" alias="kollivier_">
 <user nick="seb_" alias="_seb">
