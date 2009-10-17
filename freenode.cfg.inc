@@ -1,5 +1,5 @@
 <user nick="othermaciej" alias="othermacie othermaciej_ om_out om_meet om_sleep mjs">
-<user nick="MacDome" alias="MacDomeAFK MacDomeSleep MacDome_ MacDomeRuby MacDomePack eseidel eseidel_">
+<user nick="eseidel" alias="MacDomeAFK MacDomeSleep MacDome_ MacDomeRuby MacDomePack MacDome eseidel_">
 <user nick="Catfish_Man" alias="Catfish">
 <user nick="dhyatt" alias="hyatt">
 <user nick="cheers" alias="cheers_">
