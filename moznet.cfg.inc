@@ -1,62 +1,60 @@
-<user nick="gavin" alias="g gavinmb gavin_ gavin| gavin__ gavins gavin___ gavin2 gavin|lab gavin|away gavin|zzz gavin|l gavin_-_- gavin|d sharpg gavin\ gavin|fsoss gav">
+<user nick="gavin" alias="g gavin* sharpg gav">
 <user nick="timeless" alias="proxyvictim timely* timele* wounded_monkey compiledmonkey proxy_monkey spidercrasher chistery chistery_ iunknown sslmonkey">
-<user nick="bz" alias="bz_away bz_gone bz_sleep bz_food bz_dinner bz_mac bz_baby">
-<user nick="biesi" alias="biesi_ biesi-away biesi-win biesi-distracted biesi-CA biesi__ biesingarrr">
-<user nick="smaug" alias="smaugAfk">
-<user nick="cbarrett" alias="cbarrett_ cbarrett_home cbarrett_sherrif cbarrett_work cbarrett_grouchy cbarrett_sick cbarrett_sheriff">
-<user nick="stephend" alias="stephend|study stephend|movie stephend|TV stephend|afk stephend|lunch">
+<user nick="bz" alias="bz_* bzbarsky">
+<user nick="biesi" alias="biesi*">
+<user nick="smaug" alias="smaug*">
+<user nick="cbarrett" alias="cbarrett*">
+<user nick="stephend" alias="stephend*">
 <user nick="raccettura" alias="DIGITALgimpus">
-<user nick="Jesse" alias="Jesse_ Jesse_home Jesse|iSketch Jesse__">
-<user nick="jst" alias="jst_ jst__ jst_home jst_home_ jst_home__ jst_vacation">
+<user nick="Jesse" alias="Jesse_* Jesse|*">
+<user nick="jst" alias="jst*">
 <user nick="mcsmurf" alias="mcsmurf_">
-<user nick="wormsxulla" alias="worms_invasion wormszilla worms_z worms_x worm_invasion wormxulla worms_zillah worms979 sideworms wormsworms emoxulla worms_songB roquette wx2la bunnyzilla">
+<user nick="wormsxulla" alias="worms_* wormszilla worm_invasion wormxulla worms979 sideworms wormsworms emoxulla roquette wx2la bunnyzilla">
 <user nick="Mardak" alias="Mardak_">
-<user nick="mystic" alias="mystic_ca mystic|working mystic|AskMeForHelp">
-<user nick="Mook" alias="Mook_sb">
+<user nick="mystic" alias="mystic_* mystic|*">
 <user nick="dveditz" alias="dveditz_ dveditz2">
-<user nick="poningru" alias="poningru_ poningru_sleep poningru_work poningru_inebriated poningru_class poningru_cant_sleep poningru_study Capt_Blood_Poningru poningru_out poningru_cmc tipsy_poningru">
-<user nick="reed" alias="reed[] [reed] reed_ reed[down] reed[palm] reed[lap] reed^pirateguy reed2 reed[mobile] reed[DONTTALKTOME] reed[atfriends] reed-UNHAPPY reed|sad reed[incognito] ]reed[ reed[NEEDTIMEMACHINE] reed|doppelganger reed|pimpedout reed-HAPPIER reed-ANGRY reed|MrMom reed__ reed[studying] reed[irssi] reed|GiveMeAPony reed[sheriff]">
-<user nick="ss" alias="ss|afk ss|mac|here ss|pitapit ss|scrubs ss|food ss|isketch ss|sigh ss|latinlover Capn-Black-Sam ss|bugmail ss|reading ss|hustle ss|ubuntu ss|hotel ss|CantSleep ss|work1 ss|writing ss|patching ss|Sm1 ss|work ss|gone ss|Zzz ss|lunch ss|tv ss|LOST ss|autoaway ss|fargo samuelsidler ss|work2 samuelsidler|work ssreed samuelsidler|gone ss|meeting ss|Zzzz ss|grr ss|packing ss|shower samuelsidler|VNC ss_ ss2 DreadPirateSam">
-<user nick="Lucy" alias="Lucy|NOLA Lucy_ mrsconnor Commodore_Black_Lucy LucyPurpleHair Lucy__ CptnBlackLucy">
-<user nick="mconnor" alias="mconnor_ mconnor_bb mconnorrrrr">
-<user nick="stuart" alias="Pavlov pav stuart_XX">
-<user nick="nthomas" alias="cf cf2 cf_ cf_afk cf-afk cf|elsewhere cf_nthomas cf_nthomas|afk cf|nthomas">
-<user nick="olliej" alias="olliej_ fakeolliej">
-<user nick="Mano" alias="ManoHides ManoBBL ManoOffice ManoZZZ ManoHome ManoMac Mano_ ManoAwol Mano|XP ManoGone ManoAway ManoFarAway ManoLaptop ManoShouldZZZ ManoBusy ManoTV ManoBerlin">
+<user nick="poningru" alias="poningru_* Capt_Blood_Poningru tipsy_poningru">
+<user nick="reed" alias="reed[*] [reed] reed_* reed^pirateguy reed2 reed-* reed|* ]reed[">
+<user nick="ss" alias="ss|* Capn-Black-Sam samuelsidler* ssreed ss_ ss2 DreadPirateSam">
+<user nick="Lucy" alias="Lucy|* Lucy_* mrsconnor Commodore_Black_Lucy LucyPurpleHair CptnBlackLucy">
+<user nick="stuart" alias="Pavlov pav stuart_*">
+<user nick="nthomas" alias="nthomas|* cf cf2 cf_* cf-* cf|*">
+<user nick="olliej" alias="olliej_* fakeolliej">
+<user nick="Mano" alias="Mano*">
 <user nick="Mook" alias="Mook_sb">
 <user nick="chesh" alias="chesh|away">
-<user nick="aconbere" alias="aconbere|work aconbere_ aconbere_S aconbere|mobile">
-<user nick="bsmedberg" alias="csmedberg bsmedberg-away bsmedberg-lunch bsmedberg-daddyduty dsmedberg">
-<user nick="doron" alias="doronHome doron__ doron_">
-<user nick="preed" alias="preed-afk preed-fud preed-scotch preedMsgMe notpreed">
-<user nick="rhelmer" alias="rhelmer-afk rhelmer|afk">
-<user nick="pkasting" alias="pkasting_home">
-<user nick="tor" alias="tor_">
-<user nick="Waldo" alias="Waldo|mac Waldo|arr jwalden">
-<user nick="philor" alias="philor_">
-<user nick="Neil" alias="NeilAway NeilZZZ NeilZZZ_ NeilZZZ__ NeilZZZ___ NeilZZZ____ NeilAlmostZZZ NeilLinux">
-<user nick="CTho" alias="CTho|work CTho|zzz CTho|away CTho|busy CTho|TV CTho_ CTho|linksysSucks CTho|isketch">
-<user nick="Ryan" alias="Ryan|work Ryan_ Ryan__ Ryan|zzz Ryan|ServerCarnage Ryan|afk First_Mate_Puddles Ryan|Lunch Ryan|cell Ryan|MovinOut rflint">
-<user nick="kbrosnan" alias="kb|mac brosnan kb|work Cpt_O|Malley_brosnan">
+<user nick="aconbere" alias="aconbere|* aconbere_*">
+<user nick="bsmedberg" alias="csmedberg bsmedberg-* dsmedberg">
+<user nick="doron" alias="doronHome doron_*">
+<user nick="preed" alias="preed-* preedMsgMe notpreed">
+<user nick="rhelmer" alias="rhelmer-* rhelmer|*">
+<user nick="pkasting" alias="pkasting_*">
+<user nick="tor" alias="tor_*">
+<user nick="Waldo" alias="Waldo|* jwalden">
+<user nick="philor" alias="philor_*">
+<user nick="Neil" alias="NeilAway NeilZZZ NeilZZZ_* NeilAlmostZZZ NeilLinux">
+<user nick="CTho" alias="CTho|* CTho_*">
+<user nick="Ryan" alias="Ryan|* Ryan_* First_Mate_Puddles rflint">
+<user nick="kbrosnan" alias="kb|* brosnan Cpt_O|Malley_brosnan">
 <user nick="Yoric" alias="oYoric mYoric">
-<user nick="dietrich" alias="dietrich_ autonome">
-<user nick="Peter6" alias="Peter6_away">
-<user nick="ispiked" alias="ispiked_">
-<user nick="Wolf" alias="NotWolf Wolf|Prowling Wolf|Away X-Wolf Wolf_">
-<user nick="mconnor" alias="mconnor|vacation mconnor_afk mconnor_laptop">
+<user nick="dietrich" alias="dietrich_* autonome">
+<user nick="Peter6" alias="Peter6_*">
+<user nick="ispiked" alias="ispiked_*">
+<user nick="Wolf" alias="NotWolf Wolf|* X-Wolf Wolf_*">
+<user nick="mconnor" alias="mconnor|* mconnor_* mconnorrrrr">
 <user nick="dmiller" alias="dmiller|away">
 <user nick="jhughes" alias="jhughes_">
-<user nick="firebot" alias="firewolfbot altfirebot">
-<user nick="foxbot" alias="FoxBot foxbot2 IRCMonkey44662">
-<user nick="beltzner" alias="beltzner|afk beltzner|away beltzner|zzz beltzner_ beltzner|fsoss">
+<user nick="firebot" alias="firewolfbot altfirebot notfirebot">
+<user nick="foxbot" alias="FoxBot foxbot2">
+<user nick="beltzner" alias="beltzner|* beltzner_*">
 <user nick="markp" alias="markp_">
-<user nick="Mossop" alias="Mossop_away Mossop2 Mosssop Mossop_ Mossop_mobile Mossop_food Mossop_busy Mossop_sleep Mossop_gone Mossop_lunch Mossop_gym">
-<user nick="dolske" alias="dolske|CA dolske|BFE dolske|N800 dolske_ DreadCaptainDolske dolske_sheriff dolske|lunch dolske|dentist dolske|afk dolske|drwho dolske|movie">
+<user nick="Mossop" alias="Mossop_* Mossop2 Mosssop">
+<user nick="dolske" alias="dolske|* dolske_* DreadCaptainDolske">
 <user nick="pkim" alias="pkim_">
 <user nick="jminta" alias="jmacminta jminta_">
 <user nick="aaronlev" alias="aaronlufthansa aaronl aaronbeer">
-<user nick="sayrer" alias="sayyaaaar sayrer_ sayrer_shrf sayrer_afk sayre1">
-<user nick="bhearsum" alias="Cpt_Beer_Some bhearsum|afk bhearsum|pain bhearsum|food bhearsum|mtg">
+<user nick="sayrer" alias="sayyaaaar sayrer_* sayre1">
+<user nick="bhearsum" alias="Cpt_Beer_Some bhearsum|*">
 <user nick="morgamic" alias="morgamic|afk morgamic|inbound morgamic|gym morgamic|puppy morgamic|LA morgamic|lunch-1-dot-oh morgamic|mfbt morgamic|coffee morgamic|mfbt">
 <user nick="zach" alias="zach_sleep zach__ zach-bft zach_">
 <user nick="Cameron" alias="Cameron|afk">
