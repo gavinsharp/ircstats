@@ -1,5 +1,6 @@
 <user nick="othermaciej" alias="othermacie othermaciej_* om_* mjs*">
 <user nick="annevk" alias="annevk*">
+<user nick="jgraham" alias="jgraham*">
 <user nick="gsnedders" alias="gsnedders*">
 <user nick="jruderman" alias="jruderman_">
 <user nick="krijnh" alias="krijn">
