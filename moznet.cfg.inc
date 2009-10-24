@@ -218,3 +218,4 @@
 <user nick="hagabaka" alias="hagabaka_">
 <user nick="Spikor" alias="Spikor|work">
 <user nick="Havvy" alias="Havvy|">
+<user nick="Cork" alias="Cork[*]">
