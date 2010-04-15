@@ -76,7 +76,7 @@
 <user nick="elichak" alias="elichak_* elichak|* chak|life">
 <user nick="cesar" alias="cesar[*] cesar-* cesar_* Cesar128 _cesar_">
 <user nick="ctyler" alias="ctyler-* ctyler_*">
-<user nick="lsblakk" alias="lsblakk_*">
+<user nick="lsblakk" alias="lsblakk_* lsblakk-*">
 <user nick="armenzg" alias="armenzg* armen-linux">
 <user nick="micadeyeye" alias="micadeyeye*">
 <user nick="humph" alias="dave dave_with_dark_glasses dave_with_earplugs">
@@ -219,3 +219,6 @@
 <user nick="Spikor" alias="Spikor|work">
 <user nick="Havvy" alias="Havvy|">
 <user nick="Cork" alias="Cork[*]">
+
+<user nick="aki" alias="aki|*">
+<user nick="catlee" alias="catlee|* catlee-*">
