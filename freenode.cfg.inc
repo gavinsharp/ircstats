@@ -1,3 +1,4 @@
+<user nick="abarth" alias="abarth*">
 <user nick="othermaciej" alias="othermacie othermaciej_* om_* mjs*">
 <user nick="annevk" alias="annevk*">
 <user nick="jgraham" alias="jgraham*">
@@ -5,7 +6,7 @@
 <user nick="jruderman" alias="jruderman_">
 <user nick="krijnh" alias="krijn">
 <user nick="zcorpan" alias="zcorpan*">
-<user nick="eseidel" alias="MacDome* eseidel_*">
+<user nick="eseidel" alias="MacDome* eseidel*">
 <user nick="Catfish_Man" alias="Catfish">
 <user nick="dhyatt" alias="hyatt">
 <user nick="cheers" alias="cheers_">
