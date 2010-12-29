@@ -1,4 +1,5 @@
 <user nick="abarth" alias="abarth*">
+<user nick="dydz" alias="dydx">
 <user nick="othermaciej" alias="othermacie othermaciej_* om_* mjs*">
 <user nick="annevk" alias="annevk*">
 <user nick="jgraham" alias="jgraham*">
