@@ -18,7 +18,7 @@
 <user nick="ss" alias="ss|* Capn-Black-Sam samuelsidler* ssreed ss_ ss2 DreadPirateSam">
 <user nick="Lucy" alias="Lucy|* Lucy_* mrsconnor Commodore_Black_Lucy LucyPurpleHair CptnBlackLucy">
 <user nick="stuart" alias="Pavlov pav stuart_*">
-<user nick="nthomas" alias="nthomas|* cf cf2 cf_* cf-* cf|*">
+<user nick="nthomas" alias="nthomas|* nthomas-* nthomas_* cf cf2 cf_* cf-* cf|*">
 <user nick="olliej" alias="olliej_* fakeolliej">
 <user nick="Mano" alias="Mano*">
 <user nick="Mook" alias="Mook_sb">
@@ -222,3 +222,4 @@
 
 <user nick="aki" alias="aki|*">
 <user nick="catlee" alias="catlee|* catlee-*">
+<user nick="nagios" alias="nagios-*">
