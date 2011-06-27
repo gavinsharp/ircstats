@@ -181,7 +181,7 @@
 <user nick="myk" alias="myk_">
 <user nick="jay" alias="jay_zzz">
 <user nick="jeremy" alias="jeremy|* linuxmigration linuxmigration_ Lieutenant_Jeremy jeremy_*">
-<user nick="Asa" alias="Asa_ asadotzler">
+<user nick="Asa" alias="Asa_the_Funk_Dragon Asa_ asadotzler">
 <user nick="Hixie" alias="Hixie_* Hixie-*">
 <user nick="alanjstr" alias="alanjstr|Work">
 <user nick="ssieb" alias="ssieb_*">
