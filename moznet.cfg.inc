@@ -31,7 +31,7 @@
 <user nick="pkasting" alias="pkasting_*">
 <user nick="tor" alias="tor_*">
 <user nick="Waldo" alias="Waldo|* jwalden">
-<user nick="philor" alias="philor_*">
+<user nick="philor" alias="philor_* philor|*">
 <user nick="Neil" alias="NeilAway NeilZZZ NeilZZZ_* NeilAlmostZZZ NeilLinux">
 <user nick="CTho" alias="CTho|* CTho_*">
 <user nick="Ryan" alias="Ryan|* Ryan_* First_Mate_Puddles rflint">
