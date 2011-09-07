@@ -1,5 +1,5 @@
 <user nick="gavin" alias="g gavin* sharpg gav">
-<user nick="timeless" alias="proxyvictim timely* timele* wounded_monkey compiledmonkey proxy_monkey spidercrasher chistery chistery_ iunknown sslmonkey">
+<user nick="timeless" alias="*victim timely* timele* wounded_monkey compiledmonkey proxy_monkey spidercrasher chistery chistery_ iunknown sslmonkey">
 <user nick="bz" alias="bz_* bzbarsky">
 <user nick="biesi" alias="biesi*">
 <user nick="smaug" alias="smaug*">
@@ -67,6 +67,17 @@
 <user nick="ted" alias="luser luser_* luser|*">
 <user nick="gen" alias="gen_">
 <user nick="Littlemutt" alias="Littlemutt_afk">
+<user nick="Tanner" alias="Tanner_* Tannn3r* Tananar iTanner Tanner-* Tanner|* Tanner[*]">
+<user nick="Boriss" alias="Boriss_* Boriss_* Boriss2">
+<user nick="alex" alias="alex_* alex|* alex2">
+<user nick="dholbert" alias="dholbert_* dholbert|*">
+<user nick="khuey" alias="khuey_* khuey|*">
+<user nick="Tobbi" alias="Tobbi_* Tobbi|* Tobbi2">
+<user nick="philiKON" alias="philikon_* philikon|*">
+<user nick="jcranmer" alias="jcranmer_* jcranmer|*">
+<user nick="kourge" alias="kourge_* kourge|*">
+<user nick="stephanie" alias="stephanie_* stephanie-* stephanie|*">
+<user nick="mscott" alias="mscott_* mscott-* mscott|*">
 
 <user nick="fligtar" alias="fligtar|* fligtar_* fligtarrrrrrr">
 <user nick="wenzel" alias="wenzel|*">
