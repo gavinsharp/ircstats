@@ -38,4 +38,4 @@
 <user nick="joshmoz" alias="joshmoz_">
 <user nick="bfulgham" alias="bfulgham_">
 <user nick="MachinaX^4" alias="MachinaX^4_">
-<user nick="TabAtkins" alias="TabAtkins* TabAtkins_">
+<user nick="TabAtkins" alias="TabAtkins__ TabAtkins_">
