@@ -78,12 +78,10 @@
 <user nick="kourge" alias="kourge*">
 <user nick="stephanie" alias="stephanie_* stephanie-* stephanie|*">
 <user nick="mscott" alias="mscott_* mscott-* mscott|*">
-
 <user nick="fligtar" alias="fligtar|* fligtar_* fligtarrrrrrr">
 <user nick="wenzel" alias="wenzel|*">
 <user nick="lars" alias="lars|*">
 <user nick="clouserw" alias="clouservv">
-
 <user nick="elichak" alias="elichak_* elichak|* chak|life">
 <user nick="cesar" alias="cesar[*] cesar-* cesar_* Cesar128 _cesar_">
 <user nick="ctyler" alias="ctyler-* ctyler_*">
@@ -110,7 +108,6 @@
 <user nick="alice" alias="alice|*">
 <user nick="shaver" alias="shaver*">
 <user nick="mmullin" alias="coren_aka_mullin">
-
 <user nick="cl" alias="cl|* Blackbeard cl-* cflawson* redonkulous Raid|KillsBugsDead clawson*">
 <user nick="maxr" alias="max">
 <user nick="sauron" alias="ardissone* formerly-smokey smokey* MrProject MrCamino085">
@@ -136,13 +133,11 @@
 <user nick="murph" alias="seanmurph">
 <user nick="BruceD" alias="BruceRD">
 <user nick="Jeff" alias="jeff|WWDC">
-
 <user nick="glob" alias="glob_work">
 <user nick="cls" alias="cls_">
 <user nick="LpSolit" alias="LpSolit_*">
 <user nick="joel" alias="joel_lite">
 <user nick="FenixRF" alias="Fenix|work">
-
 <user nick="auenf" alias="auenf*">
 <user nick="maki" alias="_RSZ_ victory rsz_x20 _RSZ__ _maki">
 <user nick="justdave" alias="justdave_*">
@@ -230,7 +225,8 @@
 <user nick="Spikor" alias="Spikor|work">
 <user nick="Havvy" alias="Havvy|">
 <user nick="Cork" alias="Cork[*]">
-
+<user nick="ehsan" alias="ehsan*">
 <user nick="aki" alias="aki|*">
 <user nick="catlee" alias="catlee|* catlee-*">
 <user nick="nagios" alias="nagios-*">
+<user nick="jhford" alias="jhford*">
