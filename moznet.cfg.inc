@@ -230,3 +230,7 @@
 <user nick="catlee" alias="catlee|* catlee-*">
 <user nick="nagios" alias="nagios-*">
 <user nick="jhford" alias="jhford*">
+<user nick="RyanVM" alias="RyanVM*">
+<user nick="KWierso" alias="KWierso*">
+<user nick="Tomcat" alias="Tomcat*">
+<user nick="RattyAway" alias="Ratty*">
