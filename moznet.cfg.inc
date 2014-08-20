@@ -234,3 +234,4 @@
 <user nick="KWierso" alias="KWierso*">
 <user nick="Tomcat" alias="Tomcat*">
 <user nick="RattyAway" alias="Ratty*">
+<user nick="wycats" alias="wycats*">
